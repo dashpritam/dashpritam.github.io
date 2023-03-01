@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pritam Dash"
 title_separator          : "-"
-name                     : &name "Pritam Dash"
+name                     : &name ""
 description              : &description "PhD Candidate in Systems Securiy and Machine Learning"
 url                      : https://dashpritam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
