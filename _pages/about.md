@@ -99,7 +99,7 @@ Posters/Demos
   <li><b>Recovering Autonomous Robotic Vehicles from Physical Attacks</b>
     <br> <b> Pritam Dash </b>, Karthik Pattabiraman
     <br>
-    <em>[AutoSec@NDSS'22] Workshop on Automotive and Autonomous Vehicle Security</em>
+    <em>[AutoSec @NDSS'22] Workshop on Automotive and Autonomous Vehicle Security</em>
   </li>
 </ul>
 
@@ -107,7 +107,7 @@ Posters/Demos
   <li><b>Impact of Stealthy Attacks on Autonomous Robotic Vehicle Missions</b>
     <br> <b> Pritam Dash </b>, Karthik Pattabiraman
     <br>
-    <em>[AutoSec@NDSS'21] Workshop on Automotive and Autonomous Vehicle Security</em>
+    <em>[AutoSec @NDSS'21] Workshop on Automotive and Autonomous Vehicle Security</em>
   </li>
 </ul>
 
