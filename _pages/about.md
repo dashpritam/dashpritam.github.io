@@ -17,9 +17,6 @@ In the past, I have interned at Fraunhofer SIT in Germany (2015) and Institute o
 
 My research interests include Secure and Reliable Systems, Autonomous Systems and Machine Learning.
 
-News
-====
-
 Talks
 =====
 <ul>
@@ -86,7 +83,31 @@ Publications
   </li>
 </ul>
 
+Posters/Demos
+=============
+<ul>
+  <li><b>May the Swarm Be With You: Sensor Spoofing Attacks Against Drone Swarms</b>
+    <br> Elaine Yao, <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[CCS'22] ACM SIGSAC Conference on Computer and Communications Security</em>
+  </li>
+</ul>
 
+<ul>
+  <li><b>Recovering Autonomous Robotic Vehicles from Physical Attacks</b>
+    <br> <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[AutoSec@NDSS'22] Workshop on Automotive and Autonomous Vehicle Security</em>
+  </li>
+</ul>
+
+<ul>
+  <li><b>Impact of Stealthy Attacks on Autonomous Robotic Vehicle Missions</b>
+    <br> <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[AutoSec@NDSS'21] Workshop on Automotive and Autonomous Vehicle Security</em>
+  </li>
+</ul>
 
 
 
