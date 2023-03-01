@@ -26,7 +26,7 @@ Talks
   <li><b>Detection Is Not Enough: Attack Recovery for Safe and Robust Autonomous Robotic</b>
     <br>
       <a href="https://www.usenix.org/system/files/enigma2022_slides_dash.pdf">[slides]</a>
-      <a href="https://www.youtube.com/watch?v=lXi_MPeN9YI">[talk]</a></papertitle>
+      <a href="https://www.youtube.com/watch?v=lXi_MPeN9YI">[talk]</a>
     <br>
     <em>Usenix Enigma 2022</em>
   </li>
@@ -34,5 +34,59 @@ Talks
 
 Publications
 ============
+<ul>
+  <li><b>Jujutsu: A Two-stage Defense against Adversarial Patch Attacks on Deep Neural Networks</b>
+    <br> Zitao Chen, <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[AsiaCCS'23] ACM ASIA Conference on Computer and Communications Security</em>
+    <br>
+      <a href="https://arxiv.org/abs/2108.05075">[Preprint]</a>
+      <a href="https://github.com/DependableSystemsLab/Jujutsu">[Code]</a>
+    <br>
+  </li>
+</ul>
+
+<ul>
+  <li><b>PID-Piper: Recovering Robotic Vehicles from Physical Attacks</b>
+    <br> <b> Pritam Dash </b>, Guanpeng Li, Zitao Chen, Mehdi Karimibiuki, Karthik Pattabiraman
+    <br>
+    <em>[DSN'21] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
+    <br>
+      <a href="https://dropbox.com/s/imfsjdt81v9oio9/Pid-Piper-DSN21.pdf?dl=0">[PDF]</a>
+      <a href="https://github.com/DependableSystemsLab/pid-piper">[Code]</a>
+    <br>
+    <span style="color:red">Best Paper Award</span>
+  </li>
+</ul>
+                           
+<ul>
+  <li><b>Out of Control: Stealthy Attacks Against Robotic Vehicles</b>
+    <br> <b> Pritam Dash </b>, Mehdi Karimibiuki, Karthik Pattabiraman
+    <br>
+    <em>[ACSAC'19] Annual Computer Security Applications Conference</em>
+    <br>
+      <a href="https://blogs.ubc.ca/karthik/files/2019/09/acsac19.pdf">[PDF]</a>
+      <a href="https://github.com/DependableSystemsLab/stealthy-attacks">[Code]</a>
+    <br>
+    <span style="color:red">This work appeared in the media </span>
+    <a href="https://www.eurekalert.org/news-releases/892589">Eureka alert</a>
+    <a href="https://techxplore.com/news/2019-11-highlights-safeguard-drones-robotic-cars.html">TechXplore</a>
+    <a href="https://globalnews.ca/news/6235460/ubc-drone-hacking-research/"> Globalnews</a>
+    <a href="https://www.serene-risc.ca/public/media/files/prod/page_files/11/14_SERENE-RISC-Vol3-Iss1.pdf">SERENE-RISC digest</a>
+  </li>
+</ul>
+
+<ul>
+  <li><b>Stealthy Attacks Against Robotic Vehicles Protected by Control-based Intrusion Detection Techniques</b>
+    <br> <b> Pritam Dash </b>, Mehdi Karimibiuki, Karthik Pattabiraman
+    <br>
+    <em>[DTRAP'20]  ACM Journal on Digital Threats: Research and Practice</em>
+    <br>
+      <a href="https://blogs.ubc.ca/karthik/files/2020/09/DTRAP-2020.pdf">[PDF]</a>
+  </li>
+</ul>
+
+
+
 
 
