@@ -22,7 +22,7 @@ I had the opportunity to intern at Oracle Labs (2022), Institute of Infocomm Res
 Talks
 =====
 <ul>
-  <li><b>Detection Is Not Enough: Attack Recovery for Safe and Robust Autonomous Robotic</b>
+  <li><b>Detection Is Not Enough: Attack Recovery for Safe and Robust Autonomous Robotic Vehicles</b>
     <br>
       <a href="https://www.usenix.org/system/files/enigma2022_slides_dash.pdf">[slides]</a>
       <a href="https://www.youtube.com/watch?v=lXi_MPeN9YI">[talk]</a>
