@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-============
 <ul>
   <li><b>Jujutsu: A Two-stage Defense against Adversarial Patch Attacks on Deep Neural Networks</b>
     <br> Zitao Chen, <b> Pritam Dash </b>, Karthik Pattabiraman
