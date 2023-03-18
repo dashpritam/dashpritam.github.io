@@ -28,8 +28,18 @@ Talks
   </li>
 </ul>
 
-Publications
+Selected Publications
 ============
+<ul>
+  <li><b>SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms</b>
+    <br> Elaine Yao, <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[DSN'23] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
+    <br>
+      <a href="">[PDF]</a>
+  </li>
+</ul>
+
 <ul>
   <li><b>Jujutsu: A Two-stage Defense against Adversarial Patch Attacks on Deep Neural Networks</b>
     <br> Zitao Chen, <b> Pritam Dash </b>, Karthik Pattabiraman
@@ -69,15 +79,5 @@ Publications
     <a href="https://techxplore.com/news/2019-11-highlights-safeguard-drones-robotic-cars.html">TechXplore</a>
     <a href="https://globalnews.ca/news/6235460/ubc-drone-hacking-research/"> Globalnews</a>
     <a href="https://www.serene-risc.ca/public/media/files/prod/page_files/11/14_SERENE-RISC-Vol3-Iss1.pdf">SERENE-RISC digest</a>
-  </li>
-</ul>
-
-<ul>
-  <li><b>Stealthy Attacks Against Robotic Vehicles Protected by Control-based Intrusion Detection Techniques</b>
-    <br> <b> Pritam Dash </b>, Mehdi Karimibiuki, Karthik Pattabiraman
-    <br>
-    <em>[DTRAP'20]  ACM Journal on Digital Threats: Research and Practice</em>
-    <br>
-      <a href="https://blogs.ubc.ca/karthik/files/2020/09/DTRAP-2020.pdf">[PDF]</a>
   </li>
 </ul>
