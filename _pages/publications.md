@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<ul>
+  <li><b>SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms</b>
+    <br> Elaine Yao, <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[DSN'23] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
+    <br>
+      <a href="">[PDF]</a>
+  </li>
+</ul>
 
 <ul>
   <li><b>Jujutsu: A Two-stage Defense against Adversarial Patch Attacks on Deep Neural Networks</b>
