@@ -36,7 +36,8 @@ Selected Publications
     <br>
     <em>[DSN'23] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
     <br>
-      <a href="">[PDF]</a>
+      <a href="https://www.dropbox.com/s/uv6snllchbc402d/Elaine-dsn23-final.pdf?dl=0">[PDF]</a>
+      <a href="https://github.com/DependableSystemsLab/SwarmFuzz">[Code]</a>a>
   </li>
 </ul>
 
@@ -46,7 +47,7 @@ Selected Publications
     <br>
     <em>[AsiaCCS'23] ACM ASIA Conference on Computer and Communications Security</em>
     <br>
-      <a href="https://arxiv.org/abs/2108.05075">[Preprint]</a>
+      <a href="https://arxiv.org/abs/2108.05075">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/Jujutsu">[Code]</a>
     <br>
   </li>
