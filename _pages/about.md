@@ -37,7 +37,7 @@ Selected Publications
     <em>[DSN'23] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
     <br>
       <a href="https://www.dropbox.com/s/uv6snllchbc402d/Elaine-dsn23-final.pdf?dl=0">[PDF]</a>
-      <a href="https://github.com/DependableSystemsLab/SwarmFuzz">[Code]</a>a>
+      <a href="https://github.com/DependableSystemsLab/SwarmFuzz">[Code]</a>
   </li>
 </ul>
 
