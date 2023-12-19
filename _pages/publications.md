@@ -10,8 +10,8 @@ author_profile: true
     <br>
     <em>[AsiaCCS'24] ACM ASIA Conference on Computer and Communications Security</em>
     <br>
-      <a "">[PDF]</a>
-      <a "">[Code]</a>
+      <a>[PDF]</a>
+      <a>[Code]</a>
   </li>
 </ul>
 
