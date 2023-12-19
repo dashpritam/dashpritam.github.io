@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 <ul>
+  <li><b>Diagnosis-guided Attack Recovery for Securing Robotic Vehicles from Sensor Deception Attacks</b>
+    <br> <b> Pritam Dash </b>, Guanpeng Li, Mehdi Karimibiuki, Karthik Pattabiraman
+    <br>
+    <em>[AsiaCCS'24] ACM ASIA Conference on Computer and Communications Security</em>
+    <br>
+      <a "">[PDF]</a>
+      <a "">[Code]</a>
+  </li>
+</ul>
+
+<ul>
   <li><b>SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms</b>
     <br> Elaine Yao, <b> Pritam Dash </b>, Karthik Pattabiraman
     <br>
