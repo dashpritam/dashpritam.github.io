@@ -36,8 +36,8 @@ Selected Publications
     <br>
     <em>[AsiaCCS'24] ACM ASIA Conference on Computer and Communications Security</em>
     <br>
-      <a>[PDF]</a>
-      <a>[Code]</a>
+      <a href="https://www.dropbox.com/scl/fi/ucsjijcuyzrewptnlcd6j/AsiaCCS_Pritam_2024.pdf?rlkey=q78vmell0vyronmigdw4wltf9&dl=0">[PDF]</a>
+      <a href = "https://github.com/DependableSystemsLab/DeLorean">[Code]</a>
   </li>
 </ul>
 <ul>
