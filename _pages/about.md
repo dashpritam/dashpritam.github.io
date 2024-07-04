@@ -15,6 +15,27 @@ My research interests lie in Secure and Reliable Systems, Machine Learning and A
 Before joining UBC, I worked as a Research Engineer at <a href="https://www.iaik.tugraz.at/">IAIK</a>, Graz University of Technology. In that role 
 I contributed to <a href="https://credential.eu/">CREDENTIAL</a> EU Horizon 2020 Project. In the past I interned at Oracle Labs (2022), Institute of Infocomm Research, A*Star in Singapore (2016), Fraunhofer SIT in Germany (2015).
 
+Awards and Honors
+=================
+<ul>
+  <li><b>Rising Stars Award for research in cyber-physical systems</b> 
+    <a href="https://risingstars.linklab.virginia.edu/2024/participants/pritam-dash.html">[link]</a>
+    <em>2024</em>
+  </li>
+  <li><b>Academic excellence award from University of British Columbia (UBC)</b> 
+    <em>2020-2024</em>
+  </li>
+   <li><b>Exemplary talk mentions @Usenix Enigma'2022</b> 
+    <a href="https://www.usenix.org/conference/enigma2023/call-for-participation">[link]</a>
+    <em>2024</em>
+  </li>
+  <li><b>Four year fellowship (4YF) from University of British Columbia (UBC)</b> 
+    <em>2020</em>
+  </li>
+    <li><b>DAAD WISE fellowship </b> 
+    <em>2015</em>
+  </li>
+</ul>
 
 Talks
 =====
