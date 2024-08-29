@@ -57,7 +57,7 @@ Selected Publications
     <em>[CCS'24] ACM Conference on Computer and Communications Security (CCS)</em>
     <br>
       <a>[PDF (coming soon)]</a>
-      <a>[Code]</a>
+      <a href="https://github.com/DependableSystemsLab/specguard">[Code]</a>
   </li>
 </ul>
 <ul>
