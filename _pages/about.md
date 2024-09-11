@@ -54,7 +54,7 @@ Selected Publications
   <li><b>SpecGuard: Specification Aware Recovery for Robotic Autonomous Vehicles from Physical Attacks</b>
     <br> <b> Pritam Dash </b>, Ethan Chan, Karthik Pattabiraman
     <br>
-    <em>[CCS'24] ACM Conference on Computer and Communications Security (CCS)</em>
+    <em>[CCS'24]  ACM SIGSAC Conference on Computer and Communications Security</em>
     <br>
       <a href="https://arxiv.org/abs/2408.15200">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/specguard">[Code]</a>
