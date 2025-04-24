@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 <ul>
+  <li><b>RAVAGE: Robotic Autonomous Vehicles' Attack Generation Engine</b>
+    <br> <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[DSN'25] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
+    <br>
+      <a href="">[PDF]</a>
+      <a href="https://github.com/DependableSystemsLab/ravage">[Code]</a>  </li>
+</ul>
+
+<ul>
   <li><b>SpecGuard: Specification Aware Recovery for Robotic Autonomous Vehicles from Physical Attacks</b>
     <br> <b> Pritam Dash </b>, Ethan Chan, Karthik Pattabiraman
     <br>
