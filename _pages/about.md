@@ -51,6 +51,16 @@ Talks
 Selected Publications
 ============
 <ul>
+  <li><b>RAVAGE: Robotic Autonomous Vehicles' Attack Generation Engine</b>
+    <br> <b> Pritam Dash </b>, Karthik Pattabiraman
+    <br>
+    <em>[DSN'25] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
+    <br>
+      <a href="">[PDF]</a>
+      <a href="https://github.com/DependableSystemsLab/ravage">[Code]</a>  </li>
+</ul>
+
+<ul>
   <li><b>SpecGuard: Specification Aware Recovery for Robotic Autonomous Vehicles from Physical Attacks</b>
     <br> <b> Pritam Dash </b>, Ethan Chan, Karthik Pattabiraman
     <br>
@@ -68,16 +78,6 @@ Selected Publications
     <br>
       <a href="https://www.dropbox.com/scl/fi/ucsjijcuyzrewptnlcd6j/AsiaCCS_Pritam_2024.pdf?rlkey=q78vmell0vyronmigdw4wltf9&dl=0">[PDF]</a>
       <a href = "https://github.com/DependableSystemsLab/DeLorean">[Code]</a>
-  </li>
-</ul>
-<ul>
-  <li><b>SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms</b>
-    <br> Elaine Yao, <b> Pritam Dash </b>, Karthik Pattabiraman
-    <br>
-    <em>[DSN'23] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
-    <br>
-      <a href="https://www.dropbox.com/s/uv6snllchbc402d/Elaine-dsn23-final.pdf?dl=0">[PDF]</a>
-      <a href="https://github.com/DependableSystemsLab/SwarmFuzz">[Code]</a>
   </li>
 </ul>
 
