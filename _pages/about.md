@@ -56,7 +56,7 @@ Selected Publications
     <br>
     <em>[DSN'25] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
     <br>
-      <a href="">[PDF]</a>
+      <a href="https://www.dropbox.com/scl/fi/ca07lej8o4164bvridkj9/DSN25-Ravage.pdf?rlkey=i9rdx0j8lp79hxlduv6g2i6me&e=1&st=h3plm18p&dl=0">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/ravage">[Code]</a>  </li>
 </ul>
 
