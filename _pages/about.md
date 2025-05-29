@@ -115,7 +115,7 @@ Selected Publications
       <a href="https://blogs.ubc.ca/karthik/files/2019/09/acsac19.pdf">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/stealthy-attacks">[Code]</a>
     <br>
-    <span style="color:red">This work appeared in the media </span>
+    <span style="color:red">This work featured in </span>
     <a href="https://www.eurekalert.org/news-releases/892589">Eureka alert</a>
     <a href="https://techxplore.com/news/2019-11-highlights-safeguard-drones-robotic-cars.html">TechXplore</a>
     <a href="https://globalnews.ca/news/6235460/ubc-drone-hacking-research/"> Globalnews</a>
