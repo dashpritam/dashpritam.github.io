@@ -48,6 +48,15 @@ Talks
   </li>
 </ul>
 
+<ul>
+  <li><b>Crash, Fail-safe, or Recover: Securing Robotic Autonomous Vehicles</b>
+    <br>
+      <a href="https://www.usenix.org/conference/vehiclesec25/tutorial-2">[slides]</a>
+    <br>
+    <em>VehicleSec 2025 at Usenix Security</em>
+  </li>
+</ul>
+
 Selected Publications
 ============
 <ul>
