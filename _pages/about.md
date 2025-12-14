@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Electrical and Computer Engineering at University of British Columbia (UBC), where I'm working in the 
-<a href="https://blogs.ubc.ca/dependablesystemslab/">Dependable Systems Lab</a> with <a href="http://blogs.ubc.ca/karthik/">Prof. Karthik Pattabiraman</a>.
-My doctoral research centers on AI and computer systems, with a focus on safe autonomy. In particular, I develop techniques to safeguard autonomous systems against failures and security threats. My research results in methods that guarantee reliable operation of autonomous systems, even under the most challenging conditions. 
+I am a Senior Researcher at Huawei’s Turing Research Center. My research is at the intersection of AI and computer systems, with a focus on safe and resilient AI agents. I develop techniques to protect AI agents against failures and adversarial threats, enabling reliable operation even under adversarial and unforeseen conditions.
 
-I received my master's degree from UBC in 2020 and my undergrad degree from Vellore Institute of Technology, India in 2016. Before joining UBC, I worked as a Research Engineer at <a href="https://www.iaik.tugraz.at/">IAIK</a>, Graz University of Technology. In that role I contributed to <a href="https://credential.eu/">CREDENTIAL</a> EU Horizon 2020 Project. In the past I interned at Oracle Labs (2022), Institute of Infocomm Research, A*Star in Singapore (2016), Fraunhofer SIT in Germany (2015).
+Previously, I comopleted my Ph.D. in Electrical and Computer Engineering from the University of British Columbia (UBC), where I was a member of the <a href="https://blogs.ubc.ca/dependablesystemslab/">Dependable Systems Lab</a> advised by <a href="http://blogs.ubc.ca/karthik/">Prof. Karthik Pattabiraman</a>. I received my master's degree from UBC in 2020 and my undergrad degree from Vellore Institute of Technology, India in 2016. Before joining UBC, I worked as a Research Engineer at <a href="https://www.iaik.tugraz.at/">IAIK</a>, Graz University of Technology. In that role I contributed to <a href="https://credential.eu/">CREDENTIAL</a> EU Horizon 2020 Project. In the past I interned at Oracle Labs (2022), Institute of Infocomm Research, A*Star in Singapore (2016), Fraunhofer SIT in Germany (2015).
 
 Awards and Honors
 =================
