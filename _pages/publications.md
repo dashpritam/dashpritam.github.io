@@ -5,12 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 <ul>
+  <li><b>Feed-Forward Controller-Based Recovery for Robotic Vehicles from Physical Attacks</b>
+    <br> <b> Pritam Dash </b>, Guanpeng Li, Zitao Chen, Mehdi Karimibiuki, Karthik Pattabiraman
+    <br>
+    <em>[TDSC] IEEE Transactions on Dependable and Secure Computing (TDSC).</em>
+    <br>
+      <a href="https://www.dropbox.com/scl/fi/hzd9zbupxz6cifxof7wqp/TDSC_2025_Pritam.pdf?rlkey=c47c4p4zg99yf7c2p8nphcb0u&e=1&st=nt27498v&dl=0">[PDF]</a>
+      <a href="https://github.com/DependableSystemsLab/pid-piper">[Code]</a>  </li>
+</ul>
+
+<ul>
   <li><b>RAVAGE: Robotic Autonomous Vehicles' Attack Generation Engine</b>
     <br> <b> Pritam Dash </b>, Karthik Pattabiraman
     <br>
     <em>[DSN'25] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
     <br>
-      <a href="">[PDF]</a>
+      <a href="https://www.dropbox.com/scl/fi/ca07lej8o4164bvridkj9/DSN25-Ravage.pdf?rlkey=i9rdx0j8lp79hxlduv6g2i6me&e=1&st=h3plm18p&dl=0">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/ravage">[Code]</a>  </li>
 </ul>
 
