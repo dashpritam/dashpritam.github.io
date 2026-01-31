@@ -37,6 +37,15 @@ Awards and Honors
 Talks
 =====
 <ul>
+  <li><b>Crash, Fail-safe, or Recover: Securing Robotic Autonomous Vehicles</b>
+    <br>
+      <a href="https://www.usenix.org/conference/vehiclesec25/tutorial-2">[slides]</a>
+    <br>
+    <em>VehicleSec 2025 at Usenix Security</em>
+  </li>
+</ul>
+
+<ul>
   <li><b>Detection Is Not Enough: Attack Recovery for Safe and Robust Autonomous Robotic Vehicles</b>
     <br>
       <a href="https://www.usenix.org/system/files/enigma2022_slides_dash.pdf">[slides]</a>
@@ -46,17 +55,18 @@ Talks
   </li>
 </ul>
 
-<ul>
-  <li><b>Crash, Fail-safe, or Recover: Securing Robotic Autonomous Vehicles</b>
-    <br>
-      <a href="https://www.usenix.org/conference/vehiclesec25/tutorial-2">[slides]</a>
-    <br>
-    <em>VehicleSec 2025 at Usenix Security</em>
-  </li>
-</ul>
-
 Selected Publications
 ============
+<ul>
+  <li><b>ARMOR: Attack-Resilient Reinforcement Learning Control for UAVs</b>
+    <br> <b> Pritam Dash </b>, Ethan Chan, Nathan P. Lawrence, and Karthik Pattabiraman
+    <br>
+    <em>[ICRA'26] EEE International Conference on Robotics & Automation</em>
+    <br>
+      <a href="https://arxiv.org/pdf/2506.22423">[PDF]</a>
+      <a href="">[Code]</a>  </li>
+</ul>
+
 <ul>
   <li><b>RAVAGE: Robotic Autonomous Vehicles' Attack Generation Engine</b>
     <br> <b> Pritam Dash </b>, Karthik Pattabiraman
