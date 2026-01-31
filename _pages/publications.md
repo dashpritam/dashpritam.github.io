@@ -8,7 +8,7 @@ author_profile: true
   <li><b>ARMOR: Attack-Resilient Reinforcement Learning Control for UAVs</b>
     <br> <b> Pritam Dash </b>, Ethan Chan, Nathan P. Lawrence, and Karthik Pattabiraman
     <br>
-    <em>[ICRA'26] EEE International Conference on Robotics & Automation</em>
+    <em>[ICRA'26] IEEE International Conference on Robotics & Automation</em>
     <br>
       <a href="https://arxiv.org/pdf/2506.22423">[PDF]</a>
       <a href="">[Code]</a>  </li>
