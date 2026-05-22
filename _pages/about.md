@@ -15,11 +15,11 @@ Previously, I completed my Ph.D. in Electrical and Computer Engineering from the
 Awards and Honors
 =================
 <ul>
-  <li><b>William C. Carter PhD Dissertation Award - most prestigious student award in the field of Dependable Computing</b> 
+  <li><b>William C. Carter PhD Dissertation Award </b>- most prestigious student award in the field of Dependable Computing. 
     <a href="[https://dsn2026.github.io/awards_ca.html">[link]</a>
     <em>2026</em>
   </li>
-  <li><b>Rising Stars Award - awarded to 40 young researchers worldwide in recognition of outstanding research in cyber-physical systems.</b> 
+  <li><b>Rising Stars Award </b>- awarded to 40 young researchers worldwide in recognition of outstanding research in cyber-physical systems.
     <a href="https://risingstars.linklab.virginia.edu/2024/participants/pritam-dash.html">[link]</a>
     <em>2024</em>
   </li>
