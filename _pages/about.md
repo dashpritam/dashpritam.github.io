@@ -68,7 +68,7 @@ Selected Publications
     <em>[ICRA'26] IEEE International Conference on Robotics & Automation</em>
     <br>
       <a href="https://arxiv.org/pdf/2506.22423">[PDF]</a>
-      <a href="">[Code]</a>  </li>
+      <a href="">https://github.com/DependableSystemsLab/armor</a>  </li>
 </ul>
 
 <ul>
