@@ -62,6 +62,16 @@ Talks
 Selected Publications
 ============
 <ul>
+  <li><b>From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents</b>
+    <br> <b> Pritam Dash </b>, Tongyu Ge, Aditi Jain, Tanmay Shah, and Zhiwei Shang
+    <br>
+    <em>[AIWILD@ICML'26] Agents in the WILD at International Conference on Machine Learning</em>
+    <br>
+      <a href="https://arxiv.org/pdf/2606.04329">[PDF]</a>
+      <a href="">[Code]</a></li>
+</ul>
+
+<ul>
   <li><b>ARMOR: Attack-Resilient Reinforcement Learning Control for UAVs</b>
     <br> <b> Pritam Dash </b>, Ethan Chan, Nathan P. Lawrence, and Karthik Pattabiraman
     <br>
@@ -89,16 +99,6 @@ Selected Publications
     <br>
       <a href="https://arxiv.org/abs/2408.15200">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/specguard">[Code]</a>
-  </li>
-</ul>
-<ul>
-  <li><b>Diagnosis-guided Attack Recovery for Securing Robotic Vehicles from Sensor Deception Attacks</b>
-    <br> <b> Pritam Dash </b>, Guanpeng Li, Mehdi Karimibiuki, Karthik Pattabiraman
-    <br>
-    <em>[AsiaCCS'24] ACM ASIA Conference on Computer and Communications Security</em>
-    <br>
-      <a href="https://www.dropbox.com/scl/fi/ucsjijcuyzrewptnlcd6j/AsiaCCS_Pritam_2024.pdf?rlkey=q78vmell0vyronmigdw4wltf9&dl=0">[PDF]</a>
-      <a href = "https://github.com/DependableSystemsLab/DeLorean">[Code]</a>
   </li>
 </ul>
 
