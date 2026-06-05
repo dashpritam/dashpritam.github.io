@@ -65,7 +65,7 @@ Selected Publications
   <li><b>From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents</b>
     <br> <b> Pritam Dash </b>, Tongyu Ge, Aditi Jain, Tanmay Shah, and Zhiwei Shang
     <br>
-    <em>[AIWILD@ICML'26] Agents in the WILD at International Conference on Machine Learning</em>
+    <em>[AIWILD @ICML'26] Agents in the WILD at International Conference on Machine Learning</em>
     <br>
       <a href="https://arxiv.org/pdf/2606.04329">[PDF]</a>
       <a href="">[Code]</a></li>
@@ -79,16 +79,6 @@ Selected Publications
     <br>
       <a href="https://arxiv.org/pdf/2506.22423">[PDF]</a>
       <a href="https://github.com/DependableSystemsLab/armor">[Code]</a></li>
-</ul>
-
-<ul>
-  <li><b>RAVAGE: Robotic Autonomous Vehicles' Attack Generation Engine</b>
-    <br> <b> Pritam Dash </b>, Karthik Pattabiraman
-    <br>
-    <em>[DSN'25] IEEE/IFIP International Conference on Dependable Systems and Networks</em>
-    <br>
-      <a href="https://www.dropbox.com/scl/fi/ca07lej8o4164bvridkj9/DSN25-Ravage.pdf?rlkey=i9rdx0j8lp79hxlduv6g2i6me&e=1&st=h3plm18p&dl=0">[PDF]</a>
-      <a href="https://github.com/DependableSystemsLab/ravage">[Code]</a>  </li>
 </ul>
 
 <ul>
