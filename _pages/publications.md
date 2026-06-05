@@ -11,7 +11,7 @@ author_profile: true
     <em>[ICRA'26] IEEE International Conference on Robotics & Automation</em>
     <br>
       <a href="https://arxiv.org/pdf/2506.22423">[PDF]</a>
-      <a href="">https://github.com/DependableSystemsLab/armor</a> [Code] </li>
+      <a href="https://github.com/DependableSystemsLab/armor">[Code]</a></li>
 </ul>
 
 <ul>
