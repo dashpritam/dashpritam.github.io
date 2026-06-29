@@ -65,10 +65,12 @@ Selected Publications
   <li><b>From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents</b>
     <br> <b> Pritam Dash </b>, Tongyu Ge, Aditi Jain, Tanmay Shah, and Zhiwei Shang
     <br>
-    <em>[AIWILD @ICML'26] Agents in the WILD at International Conference on Machine Learning</em> <span style="color:blue">(Spotlight Paper)</span>
+    <em>[AIWILD @ICML'26] Agents in the WILD at International Conference on Machine Learning</em> 
     <br>
       <a href="https://arxiv.org/pdf/2606.04329">[PDF]</a>
-      <a href="">[Code]</a></li>
+      <a href="https://github.com/Digital-Trust-Lab/mp-bench">[Code]</a>
+    <br>
+  <span style="color:red">Spotlight Paper</span></li>
 </ul>
 
 <ul>
