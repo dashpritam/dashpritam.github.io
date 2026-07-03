@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
-    url: /files/CV_PritamDash.pdf
+  # - title: "CV"
+  #   url: /files/CV_PritamDash.pdf
 
 #   - title: "Talks"
 #     url: /talks/    
